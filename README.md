@@ -1,30 +1,99 @@
-Hi 👋 My name is Zach Goldberg ==========================  
+<h1 align="center">Hey 👋 I'm Zach Goldberg</h1>
+<h3 align="center">💻 Full-Stack Developer | 📱 Mobile App Creator | 🎮 Game Developer</h3>
 
-Developer ---------  I’ve been coding for 5 years. I started off with Lua and JavaScript then learned other languages like Swift and HTML and many others. Currently I know JavaScript, Lua, HTML, CSS, TypeScript, C#, Swift, Java and others.  * 🖥️  See my portfolio at My portfolio * ✉️  You can contact me at [zqlectricrblx@gmail.com](mailto:zqlectricrblx@gmail.com) * 🧠  I'm learning ReactNative and Flutter for Mobile Development * 🤝  I'm open to collaborating on Any projects
+---
 
-<a href="https://www.github.com/zqlectric" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/zqlectric?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/zqlectric" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/zqlectric?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/zqlectric" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/zqlectric?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-### Skills  
+I'm a developer with 5+ years of hands-on experience building web apps, bots, APIs, games, and mobile software. I started off scripting with Lua and JavaScript — now I’m fluent in a wide range of tools and tech across both frontend and backend stacks. I build independently and through my studio, **Syde Swipe Studios, LLC**.
 
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a> </p> 
- ### Socials  <p align="left"> <a href="https://www.github.com/zqlectric" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zqlectric" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/zqlectric" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC-EVHVahwUA5BYI5nXnVnNQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/zqlectric" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 🛠️ Tech I Work With
 
-<a href="http://www.github.com/zqlectric"><img src="https://github-readme-stats.vercel.app/api?username=zqlectric&show_icons=true&hide=stars,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zqlectric's GitHub stats" /></a>
-<a href="https://github.com/zqlectric" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zqlectric&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!--
-**zqlectric/zqlectric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects I’ve Built
+
+- **📊 MyScores**  
+  A full-featured academic performance tracking platform.  
+  - 📚 Manage courses, categories, and assignments with a clean dashboard  
+  - 📈 Calculate live grade projections and receive smart notifications  
+  - 🗂️ Import from Canvas/Blackboard, upload syllabi, and sync to Google Calendar  
+  - 🛠️ Built with Next.js, TypeScript, MongoDB, and Tailwind CSS
+
+- **🚓 Code 707**  
+  A fast-paced multiplayer Cops & Robbers game featuring:  
+  - 💰 Dynamic heists and tactical escapes  
+  - 👮‍♂️ Real-time PvP chases and arrests  
+  - 🌆 Expanding open-world urban sandbox  
+  - 🧠 AI-driven missions and stealth mechanics  
+  - 🔥 Built with Unity + Mirror + MongoDB
+
+- **🧠 Jarvis AI Assistant**  
+  A personalized voice-activated assistant built to run on web, desktop, and Raspberry Pi.  
+  - 🎤 Voice recognition, wake word detection, and AI-powered responses  
+  - 🏠 Smart home integration, reminders, local PC automation, and command memory  
+  - 🧩 Custom-built using Next.js, TypeScript, MongoDB, Whisper, and local AI models  
+  - 🧠 Features persistent cross-device memory and session awareness
+
+- **🤖 EchoSystem (Discord x Roblox Integration)**  
+  A powerful multi-purpose Discord bot built for Roblox communities.  
+  - ⚙️ Slash commands, moderation tools, verification, and anti-cheat  
+  - 🔄 Real-time syncing between Discord roles and Roblox ranks  
+  - 🚨 Abuse protection and ban syncing across services  
+  - 📡 Displayed real-time correct information about Discord inside Roblox and vice versa
+
+- **🌐 Websites + APIs**  
+  Custom-built frontends and backends for projects ranging from games to tools:  
+  - 🔧 JSON-based REST APIs  
+  - 🖥️ Landing pages, dashboards, and admin panels  
+  - 🛠️ Tech used: Express.js, Firebase, Vercel, MongoDB, Tailwind, Vue/React
+
+---
+
+### 🌱 Currently Learning & Building
+- 📱 React Native and Flutter for cross-platform mobile development  
+- 🚀 Advanced backend scaling using Node.js and serverless functions  
+- 🎙️ Voice + AI-powered tools for productivity and automation
+
+---
+
+### 🤝 Open to Collaborate
+Got an idea or need help building something cool? I’m open to team projects, freelance work, or collabs — especially in gaming, bots, tools, and web/mobile apps.
+
+📫 **Email:** [zqlectricrblx@gmail.com](mailto:zqlectricrblx@gmail.com)  
+📎 **Portfolio:** Coming Soon...
+
+---
+
+### 🔗 Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zqlectric)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zqlectric)  
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/zqlectric)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/zqlectric)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@zqlectric)
+
+---
+
+### 📊 GitHub Stats
+
+![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zqlectric&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zqlectric&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+_Thanks for checking out my profile — let’s build something awesome! 🚀_
