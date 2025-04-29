@@ -35,7 +35,7 @@ I'm a developer with 5+ years of hands-on experience building web apps, bots, AP
   - 🛠️ Built with Next.js, TypeScript, MongoDB, and Tailwind CSS
 
 - **🚓 Code 707**  
-  A fast-paced multiplayer Cops & Robbers game featuring:  
+  A fast-paced multiplayer Heist game featuring:  
   - 💰 Dynamic heists and tactical escapes  
   - 👮‍♂️ Real-time PvP chases and arrests  
   - 🌆 Expanding open-world urban sandbox  
