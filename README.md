@@ -17,11 +17,14 @@ I'm a developer with 5+ years of hands-on experience building web apps, bots, AP
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
@@ -32,7 +35,13 @@ I'm a developer with 5+ years of hands-on experience building web apps, bots, AP
   - 📚 Manage courses, categories, and assignments with a clean dashboard  
   - 📈 Calculate live grade projections and receive smart notifications  
   - 🗂️ Import from Canvas/Blackboard, upload syllabi, and sync to Google Calendar  
-  - 🛠️ Built with Next.js, TypeScript, MongoDB, and Tailwind CSS
+ 
+- **💄 Emily Cosmetics App** *(client project)*  
+  A complete e-commerce and staff management app for a cosmetics brand.  
+  - 🛒 Browse products, filter collections, add to cart, and checkout with Stripe  
+  - 📦 Track orders with visual tracking UI  
+  - 🔔 Push notifications + in-app alerts for customers and staff  
+  - 👩‍💼 Admin + staff panels for order management, scheduling, and inventory  
 
 - **🚓 Code 707**  
   A fast-paced multiplayer Heist game featuring:  
@@ -40,7 +49,6 @@ I'm a developer with 5+ years of hands-on experience building web apps, bots, AP
   - 👮‍♂️ Real-time PvP chases and arrests  
   - 🌆 Expanding open-world urban sandbox  
   - 🧠 AI-driven missions and stealth mechanics  
-  - 🔥 Built with Unity + Mirror + MongoDB
 
 - **🧠 Jarvis AI Assistant**  
   A personalized voice-activated assistant built to run on web, desktop, and Raspberry Pi.  
@@ -65,16 +73,16 @@ I'm a developer with 5+ years of hands-on experience building web apps, bots, AP
 ---
 
 ### 🌱 Currently Learning & Building
-- 📱 React Native and Flutter for cross-platform mobile development  
-- 🚀 Advanced backend scaling using Node.js and serverless functions  
-- 🎙️ Voice + AI-powered tools for productivity and automation
+- 📱 React Native and Flutter for cross-platform mobile development 
+- 🧩 Scalable backend architecture + serverless functions  
+- 🎙️ Expanding Jarvis AI into a more complete cross-device ecosystem  
 
 ---
 
 ### 🤝 Open to Collaborate
 Got an idea or need help building something cool? I’m open to team projects, freelance work, or collabs — especially in gaming, bots, tools, and web/mobile apps.
 
-📫 **Email:** [zqlectricrblx@gmail.com](mailto:zqlectricrblx@gmail.com)  
+📫 **Email:** [zrgoldberg06@gmail.com](mailto:zrgoldberg06@gmail.com)  
 📎 **Portfolio:** Coming Soon...
 
 ---
